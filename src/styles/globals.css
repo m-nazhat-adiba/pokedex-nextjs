@@ -3,4 +3,9 @@
 @tailwind utilities;
 
 body {
+  background: var(
+    --yellowGradient,
+    linear-gradient(180deg, #f5db13 0%, #f2b807 100%, #f2b807 100%)
+  );
+  background-repeat: no-repeat;
 }
