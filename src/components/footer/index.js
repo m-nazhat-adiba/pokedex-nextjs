@@ -11,7 +11,7 @@ const Footer = () => {
             Explore the Pokémon universe with our Pokédex website. Dive into
             vivid descriptions, captivating illustrations, and fascinating facts
             about each species. Your ultimate guide to the world of Pokémon
-            awaits. Catch 'em all here!
+            awaits. Catch them all here!
           </p>
         </div>
         <div className="flex flex-col items-center md:items-start">
